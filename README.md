@@ -1,1 +1,1 @@
-# Stock exchange. WPF
+Simple project in WPF, simulating the stock exchange. I created 4 windows and every few seconds I draw a value by which I increase or decrease the value of shares. During these operations the background of the action changes to green or red. In the project I used xaml and threads.
